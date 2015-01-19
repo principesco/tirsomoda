@@ -10,7 +10,7 @@ O proxecto divídese en tres bases de datos: materias primas, transportes e roup
 Fluxo loxísitico en detalle:
 
   1. A materia prima chega ó depósito de materias primas.
-    1.1 Na base de datos de materias primas gárdase toda a información referida á entrada, saída, caracteríscas e proveedor do          produto.
+    1.1 Na base de datos de materias primas gárdase toda a información referida á entrada, saída, caracteríscas, proveedor da materia prima e a fábrica onde se enviarán dende saídas ditas materias primas. 
     1.2 Considérase que un único proveedor pode enviar varias materias primas xuntas.
 
   2. A materia prima envíase ás fábricas.
