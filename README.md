@@ -14,7 +14,9 @@ Fluxo loxÃ­sitico en detalle:
     1.2 ConsidÃ©rase que un Ãºnico proveedor pode enviar varias materias primas xuntas.
 
   2. A materia prima envÃ­ase Ã¡s fÃ¡bricas.
-    2.1 Na base de datos de transporte gÃ¡rdase...
+    2.1 Na base de datos de transporte gárdase os envíos realizados de materia prima ou roupa.
+    2.2 Os envíos poden ser dende unha fábrica a outra, de fábrica a almacen, de almacén a fábrica e por último envíos a clientes.
+    2.3 Gárdase a información dos conductores encargados de conducir un transporte específico.
 
   3. As roupas chegan Ã³ almacÃ©n dende as fÃ¡bricas.
     3.1 Na base de datos de roupas gÃ¡rdase a informaciÃ³n referida Ã¡s fÃ¡bricas, Ã¡s entradas e Ã¡s caracterÃ­sticas das roupas.
